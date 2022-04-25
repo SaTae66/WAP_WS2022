@@ -1,0 +1,111 @@
+%% Creator: Inkscape 1.1.1 (3bf5ae0d25, 2021-09-20), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'plot1.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{450bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.8)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{plot1.pdf}}%
+    \put(0.22023333,0.0895){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{plot1.pdf}}%
+    \put(0.22023333,0.14531667){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}10\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{plot1.pdf}}%
+    \put(0.22023333,0.20113333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}20\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{plot1.pdf}}%
+    \put(0.22023333,0.25695){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}30\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{plot1.pdf}}%
+    \put(0.22023333,0.31276667){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}40\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{plot1.pdf}}%
+    \put(0.22023333,0.36858333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}50\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{plot1.pdf}}%
+    \put(0.22023333,0.4244){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}60\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{plot1.pdf}}%
+    \put(0.22023333,0.48021667){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}70\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{plot1.pdf}}%
+    \put(0.22023333,0.53603333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}80\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{plot1.pdf}}%
+    \put(0.22023333,0.59185){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}90\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{plot1.pdf}}%
+    \put(0.22023333,0.64766667){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}100\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{plot1.pdf}}%
+    \put(0.22023333,0.70348333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}110\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{plot1.pdf}}%
+    \put(0.23421667,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2012\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{plot1.pdf}}%
+    \put(0.31463333,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2013\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{plot1.pdf}}%
+    \put(0.39506667,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2014\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{plot1.pdf}}%
+    \put(0.47548333,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2015\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{plot1.pdf}}%
+    \put(0.55591667,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2016\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{plot1.pdf}}%
+    \put(0.63633333,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2017\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{plot1.pdf}}%
+    \put(0.71676667,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2018\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{plot1.pdf}}%
+    \put(0.79718333,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2019\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{plot1.pdf}}%
+    \put(0.87761667,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2020\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{plot1.pdf}}%
+    \put(0.95803333,0.0595){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2021\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{plot1.pdf}}%
+    \put(0.14421667,0.40298333){\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}new students\end{tabular}}}}}%
+    \put(0.59611667,0.01558333){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}year\end{tabular}}}}%
+    \put(0.07231667,0.15308333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}BSc.\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{plot1.pdf}}%
+    \put(0.07231667,0.12808333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}MSc.\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{plot1.pdf}}%
+    \put(0.07231667,0.10308333){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}Lehr.\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{plot1.pdf}}%
+    \put(0.59611667,0.74848333){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}new students per fall/year\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

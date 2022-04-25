@@ -1,0 +1,29 @@
+\documentclass{article}
+
+\usepackage{graphicx}
+
+\title{Assignment 01}
+\date{2021-12-10}
+\author{Mathias B\"{o}gl}
+
+
+\begin{document}
+	\maketitle
+	\newpage
+	
+	\begin{table}[h!]
+		\begin{center}
+			\begin{tabular}{c|c|c}
+				\textbf{normal} & \textbf{scaled} & \textbf{rotated}\\
+				\hline
+				\includegraphics{cat.png} &
+				\includegraphics[scale=.5]{cat.png} &
+				\includegraphics[angle=135,origin=c]{cat.png} \\
+				\hline
+				\includegraphics{penguin.png} &
+				\includegraphics[scale=1.25]{penguin.png} &
+				\includegraphics[angle=45, origin=tc]{penguin.png}
+			\end{tabular}
+		\end{center}
+	\end{table}
+\end{document}
